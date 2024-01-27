@@ -58,7 +58,7 @@ console.log(`${name} has coded tirelessly and is looking for a job! 😎`);
     </a>
   </p>
 </div>
-
+<br>
 <div align="center" >
 
   <h2 align="center">🌐 Connect</h2>
