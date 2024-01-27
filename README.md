@@ -65,7 +65,7 @@ console.log(`${name} has coded tirelessly and is looking for a job! 😎`);
 
   [![Julien Baiwir LinkedIn](https://img.shields.io/badge/-Julien%20Baiwir-blue?style=flat&logo=linkedin&logoColor=white&logoSize=70)](https://www.linkedin.com/in/julien-baiwir/)
   &nbsp;&nbsp;&nbsp;&nbsp;
-  [![Julien Baiwir Email](https://img.shields.io/badge/-julien.baiwir%40proton--mail.com-purple?style=flat&logo=gmail&logoColor=white&logoSize=70)](mailto:julien.baiwir@protonmail.com)
+  [![Julien Baiwir Email](https://img.shields.io/badge/-julien.baiwir%40protonmail.com-purple?style=flat&logo=gmail&logoColor=white&logoSize=70)](mailto:julien.baiwir@protonmail.com)
 
   [![Codewars](https://www.codewars.com/users/Julien-Baiwir/badges/small)](https://www.codewars.com/users/Julien-Baiwir)
 
