@@ -10,7 +10,7 @@ while (dev.isCoding()) {
   dev.drinkWater();
 }
 
-console.log(`${name} has coded tirelessly and is looking for a job! 😎`);
+console.log(`${name} has coded tirelessly and is looking for an internship! 😎`);
 ```
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julien-baiwir&show_icons=true&locale=en) | [![GitHub Streak](https://streak-stats.demolab.com?user=Julien-Baiwir&theme=transparent&mode=weekly)](https://git.io/streak-stats) |
